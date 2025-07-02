@@ -66,7 +66,7 @@ npm run dev
 ```
 
 - Frontend: [http://localhost:5173](http://localhost:5173) (or the port Vite assigns)
-- Backend API: [http://localhost:8000/api/products](http://localhost:8000/api/products)
+- Backend API: [http://localhost:8000/api/products](http://localhost:8000/api/products) ( if port = 8000)
 
 ---
 
